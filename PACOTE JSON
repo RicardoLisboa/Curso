@@ -1,0 +1,19 @@
+{//objeto
+    idade: 27, //propriedade e valor
+    nome: "Ricardo Lisboa",
+    telefone: "9999999999",
+    endereços: [ //para criar mais de uma propriedade e valor dentro de um objeto dentro do outro
+        {
+            titulo: "Casa",
+            endereço: "Rua Teste"
+        },
+        {
+            titulo: "Trabalho",
+            endereço: "Rua Teste1"
+        }
+    ],
+    profissão: "Developer"
+};
+
+criar uma variavel com o nome do objeto para receber as informações acima.
+
